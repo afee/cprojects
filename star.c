@@ -1,8 +1,10 @@
+// C program to print triangle star pattern
 #include <stdio.h>
 int main()
 {
+        
     int i, j, rows;
-
+    //reading number of rows
     printf("Enter number of rows: \n");
     scanf("%d",&rows);
 
